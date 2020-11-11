@@ -5,5 +5,7 @@ case $diceNum in
 			;;
 		2) echo "second face"
 			;;
+		3) echo "third face"
+			;;
 		*) echo "not among 1 to 6"
 esac
